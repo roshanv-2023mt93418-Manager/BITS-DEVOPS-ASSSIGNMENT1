@@ -3,3 +3,8 @@ This is the first file that we're going to commit - Manager
 Contributor contributed- Contributor
 
 MERGE CONFLICT = Contributor
+
+sdasfsf asdfasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+A sd
+Asdas
+dasdasdasdasdasdasdasdasdasdasdasdasdasdasda
