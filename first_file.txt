@@ -1,1 +1,2 @@
 This is the first file that we're going to commit - Manager
+This is the comment after clone and push - Collaborator
