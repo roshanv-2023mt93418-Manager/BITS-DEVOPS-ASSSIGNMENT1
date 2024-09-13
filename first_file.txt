@@ -2,4 +2,6 @@ This is the first file that we're going to commit - Manager
 
 Contributor contributed- Contributor
 
-MERGE CONFLICT = Contributor
+MERGE CONFLICT = Contributor + Manager
+
+Changed in Development
