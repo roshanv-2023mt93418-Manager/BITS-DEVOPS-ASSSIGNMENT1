@@ -5,3 +5,5 @@ Contributor contributed- Contributor
 MERGE CONFLICT = Contributor + Manager
 
 Changed in Development
+
+Email Change
